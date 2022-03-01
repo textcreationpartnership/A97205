@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warrant sent from the Lord Maior and aldermen, to all the trained bands in London, and the liberties thereof. Also a true platforme of Captaine Gifford, shewing how to plant ordnance and batter by night. Likewise, the quality of a serjeant-major, with such arts and sciences as appertaine unto his place. Pnblished [sic] by especiall Command.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97205</idno>
+            <idno type="STC">Wing W948</idno>
+            <idno type="STC">Thomason E118_29</idno>
+            <idno type="STC">ESTC R18080</idno>
+            <idno type="EEBO-CITATION">99860341</idno>
+            <idno type="PROQUEST">99860341</idno>
+            <idno type="VID">156103</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156103)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warrant sent from the Lord Maior and aldermen, to all the trained bands in London, and the liberties thereof. Also a true platforme of Captaine Gifford, shewing how to plant ordnance and batter by night. Likewise, the quality of a serjeant-major, with such arts and sciences as appertaine unto his place. Pnblished [sic] by especiall Command.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Septemb. 23. Printed for Francis Coules,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gifford, --  Captain.</term>
+               <term>Penington, Isaac, --  Sir, 1587?-1660.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156103:1" rendition="simple:additions"/>
+            <p>A WARRANT SENT From the LORD MAIOR and ALDERMEN, to all the trained Bands in <hi>London,</hi> and the Liberties thereof.</p>
+            <p>
+               <hi>ALSO</hi> A true Platforme of Captaine <hi>GIFFORD,</hi> ſhewing how to plant Ordnance and batter by night.</p>
+            <p>LIKEWISE, The Quality of a Serjeant-Major, with ſuch Arts and Sciences as appertaine unto his place.</p>
+            <p>Publiſhed by eſpeciall Command.</p>
+            <p>
+               <hi>LONDON, Septemb.</hi> 23. Printed for <hi>Francis Coules.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="warrant">
+            <pb facs="tcp:156103:2"/>
+            <pb n="1" facs="tcp:156103:2"/>
+            <head>By the Maior.</head>
+            <p>WHEREAS great Complaint is made unto me by the Captaines of the trained Bands within this City, That when they are commanded forth, upon ſervice of this City, for the more ſafety therof, a very ſmall number of men inrolled do make their appearance; and that ſome of them apearing, do depart from their colours before they be lodged, in contempt and great neglect of the ſaid ſervice; theſe are therfore to will and require you in His Majeſties name, forthwith upon ſight hereof to call before you all and every the Conſtables within your Ward, and give them ſtrict Charge, to repair to the Houſes in their ſeverall Precincts, and give commandment that all ſuch as are inrol<g ref="char:EOLhyphen"/>led by the Captains within your Ward, doe immediately, after warning given by the beat of the Drumb, repair to their Colours, and place of Rendevouz, with their competent armes, and that none of them depart thence without leave of their Captaine; and that
+<pb n="2" facs="tcp:156103:3"/> from time to time notice be taken of all ſuch ſouldiers ſo inrolled, as ſhall abſent them<g ref="char:EOLhyphen"/>ſelves from performing that their ſervice; and that the names of ſuch delinquents, and what defects ſhalbe found, be returned unto mee in writing, to the end ſuch courſe may be ta<g ref="char:EOLhyphen"/>ken with them as to Juſtice ſhall appertaine. And hereof I require you not to faile, as you will anſwer the contrary at your perill.</p>
+            <closer>
+               <signed>MICHEL,</signed>
+            </closer>
+         </div>
+         <div type="military_document">
+            <pb n="3" facs="tcp:156103:3"/>
+            <div type="directions_for_planting_ordnance">
+               <div type="part">
+                  <head>How to make a ſhot at a Hill or Valley by a Qua<g ref="char:EOLhyphen"/>drant, and ſpecially if the mark be further then the Peece will reach on a ſtraight line.</head>
+                  <p>AT a Hill mount the Peece to ſo many degrees above point-blank, as may reach the mark, and add to that the difference of degrees in height between your ſtation and the mark.</p>
+               </div>
+               <div type="part">
+                  <head>How to batter by night.</head>
+                  <p>ALL the Peeces being laid right in the day, plumb the middle of the Mouth and Breech of each Peece with a right line and plummet; and where the lead fal<g ref="char:EOLhyphen"/>leth, ſtick a ſmal pin in each place, unto which pin tie a ſmall line, and extend it ſomewhat further, then take a large quadrant, being fa<g ref="char:EOLhyphen"/>ſhioned to a Rule, and put the Ruler into the mouth of the Peece, laying it unto his true height to the mark, and note the degrees in a Book. And if you mean to batter at night, plumb the peece both on the line and qua<g ref="char:EOLhyphen"/>drant,
+<pb n="4" facs="tcp:156103:4"/> as formerly, and take the juſt height of the two plummets lines faſtened to the mouth and breech with a peece of waxe, which you may do by a cloſe lanthorne.</p>
+               </div>
+               <div type="part">
+                  <head>How to plant Ordnance by night.</head>
+                  <p>FIrſt, Goe to the place by day where you mean to plant your Ordnance; and take two Iron pinns with you and a beetle to drive them, and ſeeing the ground fit for your purpoſe drive in one of your ſtakes, and going backward about 20 foot ſtand as you may ſee the mark you mean to ſhoot at over the top of the ſtake you drove in, and in that very place drive in your other ſtake; And going a little backward, view whether the two ſtakes ſtand in one right line vnto the mark, which muſt be done, then take your Aſtrolobe, holding it in your Thumbe by the Ring, and turn the Athilie<g ref="char:EOLhyphen"/>day vntill you may ſee the mark through the two ſights therof; And ſee what degree it cuts, the ſame muſt you note in the Table Book. Then in a darke night bring your Ordnance between the two ſtakes, and tye a line to your two ſtakes, and plumbe the mouth and breech of the peece upon the line, and turne the peece up and downe, vntill the plummet line of the Quadrant doe fall upon
+<pb n="5" facs="tcp:156103:4"/> the degree and place, and the Athilieday did point vnto and the Aſtrolobe. If you will have more peeces then one, you muſt drive more Pins of each ſide of the firſt line, or parallell the middle line, at 10 foot diſtance, and allow for every 200 yards between the peece and the marke 4 Inches at the breech, provided that the lines be true paralleld every way.</p>
+               </div>
+            </div>
+            <div type="qualities_of_a_gunnery_sergeant">
+               <head>The Quality of a Serjeant Major.</head>
+               <p>FIrſt, valour, Reſolution and experience, wiſe, diſcreet, of quick conceipt and un<g ref="char:EOLhyphen"/>derſtanding, of a modeſt and temperate behaviour both in life and diet; void of raſh<g ref="char:EOLhyphen"/>neſſe and ſelfe-wilfulneſſe; he muſt have an able body to indure any hardneſſe; he muſt be juſt in his doing, affable, void of pride, vain-glory, or covetouſneſſe: he ſhould have knowledge in <hi>Arithmetick, Geometry, Coſmo<g ref="char:EOLhyphen"/>graphy, Aſtronomy;</hi> to ſpeake ſundry langua<g ref="char:EOLhyphen"/>ges, to be a good Engineere.</p>
+               <p>Then to know the goodneſſe of the pow<g ref="char:EOLhyphen"/>der; which is to be known three manner of wayes.</p>
+               <p n="1">1. It muſt taſte ſharpe, but not ſalt.</p>
+               <p n="2">2. It muſt look blewiſh, but not black.</p>
+               <p n="3">3. It muſt burn with a ſudden puffe, and nothing to remaine afterwards but a whitiſh
+<pb n="6" facs="tcp:156103:5"/> ſmoke, which will ſcale off in drie ſcales.</p>
+               <p>To be skilfull in ſhooting Peeces of Ord<g ref="char:EOLhyphen"/>nance; in the lading of them with powder and ſhot; the proportion of the metall to a pound of the ſhot, as thus: If 200, then the weight of the ſhot in powder: if 300, one ninth part more; if 175, then one ninth part more: if 150, two ninth parts leſſe: if 100, one third part leſſe: the Ordnance to ſtand in a rich ground, as the wheels bee not one nim<g ref="char:EOLhyphen"/>bler then another.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
